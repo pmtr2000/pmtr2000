@@ -6,4 +6,4 @@
 
 - 🔭 I’m currently working on my doctorate in business....
 - 🌱 I’m currently learning software engineering with QuickStart
-- >
+
